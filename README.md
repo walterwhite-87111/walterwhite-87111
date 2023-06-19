@@ -1,4 +1,18 @@
-### Hi there 👋
+### Walter H. White 
+
+## About Me
+
+
+
+
+- I am an undergraduate/graduate student in ...
+- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+- 📧 How to reach me: ...
+- My career goal is ...
+- ⚡ Fun fact: ...
+
+
 
 <!--
 **walterwhite-87111/walterwhite-87111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
