@@ -6,8 +6,9 @@ I am a skilled ⚗️ chemist with a doctoral degree from the *California Instit
 
 - 👨‍🎓 I hold a PhD in Chemistry from the California Institute of Technology.
 - 🛠️ I’m currently working on optimizing methylamine use as a precursor to non-prescription drugs.
+- 👨‍👩‍👧‍👦 I am married to Skylar White and have two children, Walt Jr. and Holly.
 - 📧 Email Address: heisenberg@gmail.com
-- ⚡ Fun Fact: Despite having stage three terminal lung cancer, I have been able to establish and maintain a successful small business.
+- ⚡ Fun Fact: My brother in-law, Hank, is an officer with the Drug Enforcement Agency (DEA).
 
 
 
