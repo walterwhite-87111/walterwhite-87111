@@ -1,16 +1,13 @@
-### Walter H. White 
+## Walter H. White 
+### About Me
+I am a skilled ⚗️ chemist with a doctoral degree from the *California Institute of Technology*.  My research in :electron: X-ray crystallography contributed to a project awarded a **Nobel Prize** in Chemistry in 1985.  After graduating from CalTech, colleague Elliott Schwartz and I co-founded 🧠 **Gray Matter Technologies** which evolved into a multi-billion dollar company.   Soon, I left Gray Matter and held a series of ⚗️ chemical lab technician positions.  I then moved to Albuquerque, NM and a job with Sandia Laboratories.  After leaving Sandia, I joined the faculty at J.P Wynne High School as a 🧪 chemistry teacher and worked a second job at the A1A Car Wash, both in Albuquerque.  Most recently, I launched a 💲 successful business in the pharmaceutical sector with collaborator Jesse Pinkman.
 
-## About Me
+### Personal Highlights
 
-
-
-
-- I am an undergraduate/graduate student in ...
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- 📧 How to reach me: ...
-- My career goal is ...
-- ⚡ Fun fact: ...
+- ⚗️ I hold a PhD in Chemistry from the California Institute of Technology.
+- 🔭 I’m currently working on optimizing methylamine use as a precursor to non-prescription drugs.
+- 📧 How to reach me: heisenberg@gmail.com
+- ⚡ Fun Fact: Despite being diagnosed with stage three terminal lung cancer, I have been able to establish and maintain a succesful business.
 
 
 
